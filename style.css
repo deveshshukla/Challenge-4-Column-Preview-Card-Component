@@ -30,7 +30,7 @@ main {
     align-content: center;
     justify-content: center;
     justify-items: center;
-    min-height: 90vh;
+    min-height: 100vh;
 }
 .card {
     display: flex;
@@ -170,7 +170,7 @@ main {
         display: flex;
         justify-content: center;
         align-items: center;
-        min-height: 90vh;
+        min-height: 100vh;
     }
     .card {
         width: 900px;
